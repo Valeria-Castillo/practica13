@@ -4,6 +4,6 @@ Fernando Alarcon
 Iram Quintana
 Luis Batista
 Valeria Castillo Lopez
-Sheila Santoyo
-Arturo Valladares
+Edwin Ledezma
+Moira Villalobos
 Jaqueline Salazar
