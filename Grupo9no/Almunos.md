@@ -1,4 +1,4 @@
-Daniel Peregrino
+Daniel Peregrino editaado en github
 Asbed Rodriguez
 Fernando Alarcon
 Iram Quintana
